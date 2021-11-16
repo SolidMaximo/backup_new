@@ -7,6 +7,7 @@ import (
 	"os"
 	"path/filepath"
 	//"github.com/onerobotics/backup/project"
+	//"does vscode understand this is the directory_mod2 branch???"
 )
 
 var filters map[string][]string
