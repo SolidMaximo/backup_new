@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 	//"github.com/onerobotics/backup/robot"
-	//simply a test
+	//simply a test to see what happens
 )
 
 const VERSION = "1.0.1"
